@@ -15,5 +15,10 @@ RCT_EXPORT_MODULE();
   return @{ @"buildEnvironment": buildEnvironment };
 }
 
+- (BOOL)requiresMainQueueSetup
+{
+    return YES;
+}
+
 @end
   
