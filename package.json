@@ -1,0 +1,24 @@
+
+{
+  "name": "react-native-build-env",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "build",
+    "env",
+    "environment",
+    "config"
+  ],
+  "author": "Krzysztof Kraszewski <krzysztof@kraszewski.app>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
