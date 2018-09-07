@@ -1,7 +1,7 @@
 {
   "name": "react-native-build-env",
   "version": "0.0.0-development",
-  "description": "",
+  "description": "Configure your app based on the build environment (iOS/Android)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
