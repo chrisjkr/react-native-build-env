@@ -1,6 +1,8 @@
 
-import { NativeModules } from 'react-native';
+import { NativeModules } from 'react-native'
 
-const { RNBuildEnv } = NativeModules;
+const { RNBuildEnv } = NativeModules
 
-export default RNBuildEnv;
+export const buildEnvironment = RNBuildEnv.buildEnvironment
+
+export default RNBuildEnv
