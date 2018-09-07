@@ -4,10 +4,12 @@ package com.reactlibrary;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
+import com.facebook.react.bridge.Callback;
 
+import java.util.HashMap;
 import java.util.Map;
 
-import com.facebook.react.bridge.Callback;
+import android.support.annotation.Nullable;
 
 import com.reactlibrary.BuildConfig;
 
